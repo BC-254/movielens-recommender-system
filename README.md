@@ -3,6 +3,8 @@
 
 ## **Overview**
 In the increasingly saturated digital streaming landscape, the primary challenge for platforms is no longer just content acquisition, but content discoverability. 'User decision fatigue', which is the paradox of having too many choices, directly leads to platform abandonment and increased churn rates.
+## Requirements
+pip install pandas numpy matplotlib seaborn scikit-learn scikit-surprise
 
 ## **Business Understanding**
 This project addresses this critical bottleneck by developing a personalized Recommendation Engine using the MovieLens dataset. By implementing a Hybrid Collaborative Filtering approach, the system transforms raw historical rating data into actionable insights, predicting user preferences with high statistical accuracy. 
